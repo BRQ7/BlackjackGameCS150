@@ -1,0 +1,8 @@
+Game Statistics
+Final Player Value: 19
+Final Dealer Value: 24
+Final Player Hand: Queen of Hearts, 5 of Clubs, 2 of Diamonds, 2 of Hearts
+Final Dealer Hand: 4 of Clubs, Jack of Spades, Queen of Spades
+Player Turns: 3
+Dealer Turns: 1
+Total Turns: 4
