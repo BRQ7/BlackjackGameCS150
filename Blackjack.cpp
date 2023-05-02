@@ -1,5 +1,5 @@
  /* Blackjack.cpp - Blackjack game written in C++ for the CS final project 
-   * Author:     Brandon Quandt
+   * Author:     Brandon Q
    * Mo dule:     15
    * Project:    Project #1
    * Problem Statement : Make a blackjack game that meets all the requirements of the CS150 final project, and have replayability features, proper rules, etc.
